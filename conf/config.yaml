@@ -1,0 +1,5 @@
+defaults:
+  - grp1: grp1_default
+  - grp2: grp2_default
+  - grp3: grp3_default
+  - grp4: grp4_default
